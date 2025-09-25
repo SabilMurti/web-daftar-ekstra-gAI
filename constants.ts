@@ -1,6 +1,6 @@
 import { Extracurricular, Announcement } from './types';
 
-export const SCHOOL_LOGO_PATH = 'https://i.imgur.com/qZyL3sA.png'; 
+export const SCHOOL_LOGO_PATH = './src/logosmk9.png'; 
 export const SCHOOL_NAME = 'SMK NEGERI 9 SEMARANG';
 
 export const EXTRACURRICULARS: Extracurricular[] = [
